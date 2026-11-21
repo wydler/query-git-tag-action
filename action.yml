@@ -37,7 +37,7 @@ outputs:
     description: 'The found tag'
 
 runs:
-  using: 'node24'
+  using: 'node26'
   main: 'main.js'
 
 branding:
